@@ -1,0 +1,3 @@
+﻿  check09b.cpp
+c:\users\monica\onedrive\cs165ben\mycheck09b\check09b.cpp(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  myCheck09b.vcxproj -> C:\Users\Monica\OneDrive\CS165ben\myCheck09b\Debug\myCheck09b.exe
