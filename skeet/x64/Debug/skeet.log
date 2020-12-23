@@ -1,0 +1,54 @@
+﻿  bird.cpp
+  bullet.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.cpp(37): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.cpp(38): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  driver.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  flyingObject.cpp
+  game.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\game.cpp(152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  point.cpp
+  rifle.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\rifle.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  sacredBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(20): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(29): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  standardBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(19): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(29): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  toughBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(22): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(33): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(33): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  uiDraw.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(461): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(460): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(504): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(505): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(513): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(514): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(559): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\uidraw.cpp(562): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  uiInteract.cpp
+  velocity.cpp
+  wildBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(19): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(28): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  skeet.vcxproj -> C:\Users\Monica\OneDrive\CS165ben\skeet\x64\Debug\skeet.exe

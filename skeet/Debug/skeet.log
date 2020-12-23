@@ -1,0 +1,35 @@
+﻿  bird.cpp
+  driver.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  game.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\game.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\monica\onedrive\cs165ben\skeet\skeet\game.cpp(152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\game.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\monica\onedrive\cs165ben\skeet\skeet\game.cpp(336): warning C4018: '<': signed/unsigned mismatch
+  sacredBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(20): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\sacredbird.cpp(29): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  standardBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(19): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\standardbird.cpp(29): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  toughBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(22): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(33): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\toughbird.cpp(33): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  wildBird.cpp
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\bullet.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(19): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(28): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\monica\onedrive\cs165ben\skeet\skeet\wildbird.cpp(28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  skeet.vcxproj -> C:\Users\Monica\OneDrive\CS165ben\skeet\Debug\skeet.exe
