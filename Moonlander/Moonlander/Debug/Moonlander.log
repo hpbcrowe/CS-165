@@ -1,0 +1,4 @@
+﻿  game.cpp
+c:\users\monica\onedrive\cs165ben\moonlander\moonlander\game.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\monica\onedrive\cs165ben\moonlander\moonlander\game.cpp(67): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Moonlander.vcxproj -> C:\Users\Monica\OneDrive\CS165ben\Moonlander\Debug\Moonlander.exe
