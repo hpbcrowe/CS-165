@@ -1,0 +1,4 @@
+﻿  myCheck10a.cpp
+c:\users\monica\onedrive\cs165ben\mycheck10a\mycheck10a.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\monica\onedrive\cs165ben\mycheck10a\mycheck10a.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  myCheck10a.vcxproj -> C:\Users\Monica\OneDrive\CS165ben\myCheck10a\Debug\myCheck10a.exe
